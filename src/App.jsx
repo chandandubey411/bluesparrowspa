@@ -10,6 +10,7 @@ import Gallery from "./pages/Gallery";
 import Reviews from "./pages/Reviews";
 import Contact from "./pages/Contact";
 import Footer from "./components/Footer";
+import FloatingCTA from "./components/FloatingCTA";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </main>
+        <FloatingCTA/>
 
         <Footer/>
 
