@@ -71,7 +71,7 @@ const Contact = () => {
                 rel="noopener noreferrer"
                 className="bg-[#D4AF37] text-[#0F2A44] px-8 py-4 rounded-full font-semibold text-center hover:scale-105 transition"
               >
-                Chat on WhatsApp
+                +91 7303012822
               </a>
 
               <a

@@ -86,7 +86,7 @@ const Footer = () => {
                 href="tel:7303012822"
                 className="border border-white/30 px-5 py-2 rounded-full text-sm font-semibold hover:bg-white hover:text-[#0F2A44] transition"
               >
-                Call Now
+                +91 7303012822
               </a>
             </div>
           </div>

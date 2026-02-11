@@ -37,7 +37,7 @@ const Home = () => {
               rel="noopener noreferrer"
               className="bg-[#D4AF37] text-[#0F2A44] px-8 py-4 rounded-full font-semibold hover:scale-105 transition"
             >
-              Book on WhatsApp
+              +91 7303012822
             </a>
 
             <a
